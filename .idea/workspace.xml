@@ -20,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
-              <caret line="208" column="45" lean-forward="true" selection-start-line="208" selection-start-column="45" selection-end-line="208" selection-end-column="45" />
+              <caret line="208" column="45" lean-forward="false" selection-start-line="208" selection-start-column="45" selection-end-line="208" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -62,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/com/wanghao/jnshu/service/impl/PhotoServiceImplTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+              <caret line="24" column="34" lean-forward="false" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -72,7 +72,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/occupation.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="4510">
-              <caret line="205" column="24" lean-forward="true" selection-start-line="205" selection-start-column="24" selection-end-line="205" selection-end-column="24" />
+              <caret line="205" column="24" lean-forward="false" selection-start-line="205" selection-start-column="24" selection-end-line="205" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -1121,7 +1121,7 @@
       <workItem from="1485242394482" duration="548000" />
       <workItem from="1485243032702" duration="242000" />
       <workItem from="1485243410245" duration="330000" />
-      <workItem from="1485244217900" duration="18157000" />
+      <workItem from="1485244217900" duration="18606000" />
     </task>
     <servers />
   </component>
@@ -1158,7 +1158,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28311000" />
+    <option name="totallyTimeSpent" value="28760000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1722,7 +1722,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="208" column="45" lean-forward="true" selection-start-line="208" selection-start-column="45" selection-end-line="208" selection-end-column="45" />
+          <caret line="208" column="45" lean-forward="false" selection-start-line="208" selection-start-column="45" selection-end-line="208" selection-end-column="45" />
           <folding />
         </state>
       </provider>
@@ -1756,7 +1756,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/wanghao/jnshu/service/impl/PhotoServiceImplTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <caret line="24" column="34" lean-forward="false" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -1764,7 +1764,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/occupation.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4510">
-          <caret line="205" column="24" lean-forward="true" selection-start-line="205" selection-start-column="24" selection-end-line="205" selection-end-column="24" />
+          <caret line="205" column="24" lean-forward="false" selection-start-line="205" selection-start-column="24" selection-end-line="205" selection-end-column="24" />
           <folding />
         </state>
       </provider>
